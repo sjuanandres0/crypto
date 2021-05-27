@@ -22,6 +22,8 @@ https://www.kaggle.com/andradaolteanu/all-elon-musks-tweets
 
 Twitter:\
 https://github.com/twintproject/twint
+https://www.kaggle.com/alaix14/bitcoin-tweets-20160101-to-20190329
+https://www.kaggle.com/discussion/207512
 
 Btc:\
 1 minute: https://bitcoincharts.com/charts/bitstampUSD#rg60ztgSzm1g10zm2g25zv
