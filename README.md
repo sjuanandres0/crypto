@@ -24,6 +24,10 @@ Twitter:\
 https://github.com/twintproject/twint
 https://www.kaggle.com/alaix14/bitcoin-tweets-20160101-to-20190329
 https://www.kaggle.com/discussion/207512
+https://www.youtube.com/watch?v=jzLJjbZVQ9s
+https://github.com/tweepy/tweepy
+https://www.kaggle.com/armandmorin/sentiment-analysis/notebook
+& Spark: https://towardsdatascience.com/analyzing-tweets-with-nlp-in-minutes-with-spark-optimus-and-twint-a0c96084995f
 
 Btc:\
 1 minute: https://bitcoincharts.com/charts/bitstampUSD#rg60ztgSzm1g10zm2g25zv
