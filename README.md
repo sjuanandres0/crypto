@@ -31,6 +31,10 @@ https://www.kaggle.com/armandmorin/sentiment-analysis/notebook
 
 Btc:\
 1 minute: https://bitcoincharts.com/charts/bitstampUSD#rg60ztgSzm1g10zm2g25zv
+https://bitcoin.org/en/resources
+https://gobitcoin.io/
+https://tradeblock.com/bitcoin/historical/1d-f-txval_per_tot-01071-blksize_per_avg-01071
+
 
 Address:
 https://bitinfocharts.com/top-100-richest-bitcoin-addresses-1.html
