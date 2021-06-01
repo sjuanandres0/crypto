@@ -39,3 +39,6 @@ https://tradeblock.com/bitcoin/historical/1d-f-txval_per_tot-01071-blksize_per_a
 Address:
 https://bitinfocharts.com/top-100-richest-bitcoin-addresses-1.html
 https://insights.glassnode.com/bitcoin-supply-distribution/
+
+Basic prediction with LSTM:
+https://www.kaggle.com/microtang/predicting-btc-price-using-rnn
