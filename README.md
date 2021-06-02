@@ -42,3 +42,25 @@ https://insights.glassnode.com/bitcoin-supply-distribution/
 
 Basic prediction with LSTM:
 https://www.kaggle.com/microtang/predicting-btc-price-using-rnn
+
+RNN - LSTM:
+https://www.superdatascience.com/blogs/the-ultimate-guide-to-recurrent-neural-networks-rnn
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+http://karpathy.github.io/2015/05/021/rnn-effectiveness
+
+Capston example:
+https://github.com/matteobonanomi/dsnd-capstone
+https://medium.com/@mbonanomi/hourly-electricity-price-forecasting-using-long-short-term-memory-neural-networks-814ceac517b0
+RNN video: https://www.youtube.com/watch?v=WCUNPb-5EYI
+https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
+Nice github: https://github.com/seifip
+
+https://github.com/marcosan93/Price-Forecaster
+https://github.com/marcosan93/Price-Forecaster/blob/master/BTC-Models/BTC-RNN-Deep-Learning.ipynb
+https://towardsdatascience.com/predicting-bitcoin-prices-with-deep-learning-438bc3cf9a6f
+https://towardsdatascience.com/technical-indicators-on-bitcoin-using-python-c392b4a33810
+
+Sparkify: https://github.com/inmaugarc/DataScienceCapstone
+Sparkify: https://github.com/cjayidoko/UDACITY_DSND
+
+https://pages.github.com/
