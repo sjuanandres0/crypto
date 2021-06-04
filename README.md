@@ -20,6 +20,10 @@ https://www.kaggle.com/ayuraj/experiment-tracking-with-weights-and-biases
 https://www.kaggle.com/mczielinski/bitcoin-historical-data
 https://www.kaggle.com/andradaolteanu/all-elon-musks-tweets
 
+https://www.kaggle.com/kentata/time-series-data-exploration **good**
+https://www.kaggle.com/daiearth22/rnn-for-predicting-closing-price-using-keras **not good**
+https://www.kaggle.com/taniaj/cryptocurrency-price-forecasting/notebook
+
 Twitter:\
 https://github.com/twintproject/twint
 https://www.kaggle.com/alaix14/bitcoin-tweets-20160101-to-20190329
@@ -48,6 +52,9 @@ https://www.superdatascience.com/blogs/the-ultimate-guide-to-recurrent-neural-ne
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 http://karpathy.github.io/2015/05/021/rnn-effectiveness
 
+Algoorithms:
+https://ruder.io/optimizing-gradient-descent/index.html#gradientdescentoptimizationalgorithms
+
 Capston example:
 https://github.com/matteobonanomi/dsnd-capstone
 https://medium.com/@mbonanomi/hourly-electricity-price-forecasting-using-long-short-term-memory-neural-networks-814ceac517b0
@@ -55,7 +62,9 @@ RNN video: https://www.youtube.com/watch?v=WCUNPb-5EYI
 https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
 Nice github: https://github.com/seifip
 
-https://github.com/marcosan93/Price-Forecaster
+
+BTC forcaster:
+https://github.com/marcosan93/Price-Forecaster #not so good, very basic and wrong scaling also test with fit_transform instead of transform only
 https://github.com/marcosan93/Price-Forecaster/blob/master/BTC-Models/BTC-RNN-Deep-Learning.ipynb
 https://towardsdatascience.com/predicting-bitcoin-prices-with-deep-learning-438bc3cf9a6f
 https://towardsdatascience.com/technical-indicators-on-bitcoin-using-python-c392b4a33810
@@ -64,3 +73,9 @@ Sparkify: https://github.com/inmaugarc/DataScienceCapstone
 Sparkify: https://github.com/cjayidoko/UDACITY_DSND
 
 https://pages.github.com/
+
+Books:
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron
+
+udemy / SDS / Kirill / Hadelin:
+https://www.udemy.com/course/deeplearning/learn/lecture/8374802#questions/3554002
