@@ -8,6 +8,8 @@ API: https://www.coingecko.com/api/documentations/v3
 * Transaction data https://etherscan.io/ 
 https://docs.whale-alert.io/
 
+* Yahoo Finance
+
 
 ## Other links
 - https://charts.woobull.com/bitcoin-price-models/
@@ -19,9 +21,8 @@ Kaggle:
 - https://www.kaggle.com/ayuraj/experiment-tracking-with-weights-and-biases
 - https://www.kaggle.com/mczielinski/bitcoin-historical-data
 - https://www.kaggle.com/andradaolteanu/all-elon-musks-tweets
-
-- https://www.kaggle.com/kentata/time-series-data-exploration **good**
-- https://www.kaggle.com/daiearth22/rnn-for-predicting-closing-price-using-keras **not good**
+- Good: https://www.kaggle.com/kentata/time-series-data-exploration
+- Not like: https://www.kaggle.com/daiearth22/rnn-for-predicting-closing-price-using-keras
 - https://www.kaggle.com/taniaj/cryptocurrency-price-forecasting/notebook
 - https://www.kaggle.com/someadityamandal/bitcoin-time-series-forecasting
 
@@ -40,7 +41,6 @@ Btc:\
 - https://gobitcoin.io/
 - https://tradeblock.com/bitcoin/historical/1d-f-txval_per_tot-01071-blksize_per_avg-01071
 
-
 BTC Address:
 https://bitinfocharts.com/top-100-richest-bitcoin-addresses-1.html
 https://insights.glassnode.com/bitcoin-supply-distribution/
@@ -53,19 +53,18 @@ RNN - LSTM:
 - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 - http://karpathy.github.io/2015/05/021/rnn-effectiveness
 - https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
+- Very useful: https://machinelearningmastery.com/how-to-scale-data-for-long-short-term-memory-networks-in-python/
 - Advanced: https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/
-- https://machinelearningmastery.com/how-to-scale-data-for-long-short-term-memory-networks-in-python/
 
 Algorithms:
-vhttps://ruder.io/optimizing-gradient-descent/index.html#gradientdescentoptimizationalgorithms
+- https://ruder.io/optimizing-gradient-descent/index.html#gradientdescentoptimizationalgorithms
 
-Capston example:
+Capstone example:
 - https://github.com/matteobonanomi/dsnd-capstone
 - https://medium.com/@mbonanomi/hourly-electricity-price-forecasting-using-long-short-term-memory-neural-networks-814ceac517b0
 - RNN video: https://www.youtube.com/watch?v=WCUNPb-5EYI
 - https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
 - Nice github: https://github.com/seifip
-
 
 BTC forcaster / Marcosan:
 - https://github.com/marcosan93/Price-Forecaster
@@ -73,14 +72,15 @@ BTC forcaster / Marcosan:
 - https://towardsdatascience.com/predicting-bitcoin-prices-with-deep-learning-438bc3cf9a6f
 - https://towardsdatascience.com/technical-indicators-on-bitcoin-using-python-c392b4a33810
 
-Sparkify:
-- Sparkify: https://github.com/inmaugarc/DataScienceCapstone
-- Sparkify: https://github.com/cjayidoko/UDACITY_DSND
-
 https://pages.github.com/
 
 Books:
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron
 
-Udemy / SDS / Kirill / Hadelin:
-- https://www.udemy.com/course/deeplearning/learn/lecture/8374802#questions/3554002
+UdemyHadelin:
+- SDS/ Kirill / Hadelin: https://www.udemy.com/course/deeplearning/learn/lecture/8374802#questions/3554002
+- Jose Portilla
+
+Sparkify:
+- Sparkify: https://github.com/inmaugarc/DataScienceCapstone
+- Sparkify: https://github.com/cjayidoko/UDACITY_DSND
