@@ -24,7 +24,9 @@ Kaggle:
 - Good: https://www.kaggle.com/kentata/time-series-data-exploration
 - Not like: https://www.kaggle.com/daiearth22/rnn-for-predicting-closing-price-using-keras
 - https://www.kaggle.com/taniaj/cryptocurrency-price-forecasting/notebook
-- https://www.kaggle.com/someadityamandal/bitcoin-time-series-forecasting
+- LSTM is wrongly apply (Xtrain vs ytrain), some EDA useful: https://www.kaggle.com/someadityamandal/bitcoin-time-series-forecasting
+- https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+- https://www.kaggle.com/etatbak/rnn-vs-lstm-on-bitcoin-dataset
 
 Twitter:
 - https://github.com/twintproject/twint
@@ -84,3 +86,9 @@ UdemyHadelin:
 Sparkify:
 - Sparkify: https://github.com/inmaugarc/DataScienceCapstone
 - Sparkify: https://github.com/cjayidoko/UDACITY_DSND
+
+BigQuery:
+- https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.241445570.1925058904.1623047939-1090757090.1616044490&q=bitcoin
+
+XGBOOST:
+- https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
