@@ -17,6 +17,8 @@ https://docs.whale-alert.io/
 - https://www.lookintobitcoin.com/charts/stock-to-flow-model/
 
 Kaggle:
+- https://www.kaggle.com/ryanholbrook/dropout-and-batch-normalization
+- https://www.kaggle.com/ryanholbrook/overfitting-and-underfitting
 - https://www.kaggle.com/andradaolteanu/bitcoin-dogecoin-on-rapids-and-elon-musk
 - https://www.kaggle.com/ayuraj/experiment-tracking-with-weights-and-biases
 - https://www.kaggle.com/mczielinski/bitcoin-historical-data
@@ -57,6 +59,7 @@ RNN - LSTM:
 - https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
 - Very useful: https://machinelearningmastery.com/how-to-scale-data-for-long-short-term-memory-networks-in-python/
 - Advanced: https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/
+- Interesting: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
 Algorithms:
 - https://ruder.io/optimizing-gradient-descent/index.html#gradientdescentoptimizationalgorithms
