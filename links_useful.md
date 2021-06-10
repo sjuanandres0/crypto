@@ -36,7 +36,7 @@ https://docs.whale-alert.io/
 - & Spark: https://towardsdatascience.com/analyzing-tweets-with-nlp-in-minutes-with-spark-optimus-and-twint-a0c96084995f
 - https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/blob/master/ipynb/Chapter%201%20-%20Mining%20Twitter.ipynb
 
-#### Btc:\
+#### BTC:
 - 1 minute: https://bitcoincharts.com/charts/bitstampUSD#rg60ztgSzm1g10zm2g25zv
 - https://bitcoin.org/en/resources
 - https://gobitcoin.io/
@@ -59,8 +59,15 @@ https://docs.whale-alert.io/
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron
 
 #### Udemy:
+- https://classroom.udacity.com/courses/ud501
 - SDS/ Kirill / Hadelin: https://www.udemy.com/course/deeplearning/learn/lecture/8374802#questions/3554002
 - Jose Portilla
+
+#### Other links
+- https://charts.woobull.com/bitcoin-price-models/
+- https://www.blockchaincenter.net/bitcoin-rainbow-chart/
+- https://www.lookintobitcoin.com/charts/stock-to-flow-model/
+- https://pages.github.com/
 
 Sparkify:
 - Sparkify: https://github.com/inmaugarc/DataScienceCapstone
@@ -71,9 +78,3 @@ BigQuery:
 
 XGBOOST:
 - https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
-
-## Other links
-- https://charts.woobull.com/bitcoin-price-models/
-- https://www.blockchaincenter.net/bitcoin-rainbow-chart/
-- https://www.lookintobitcoin.com/charts/stock-to-flow-model/
-- https://pages.github.com/
