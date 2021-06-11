@@ -89,3 +89,4 @@ Due to time contraints, I was not able to complete the project as I'd like, but 
 - User more datapoints through reducing the time intervals. For this notebook, I used daily prices, but we could try with hourly prices for example.
 - A trained model could be saved and through an API we could check the BTC price daily (and same for other features if we decide to have more) and make the BTC Price prediction for the next day. This could be automated with GitHub Actions. Since the model training may take some time (and may exceed the 2000 minutes monthly), we could train the model weekly (or in a different frecuency) in our local machines.
 - Furthermore, Telegram messages could also be triggered.
+- Refactor the code.
