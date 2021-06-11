@@ -4,7 +4,7 @@ The goal of this project is to predict Bitcoin's Price.
 
 This project will be presented as the Capstone project for the [Udacity Data Scientist Nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025). 
 
-For better visualisation of the notebook, please follow: https://nbviewer.jupyter.org/github/sjuanandres0/crypto/blob/main/Main.ipynb (It contains plotly graphs which are not interactive when rendered in GitHub).
+For better visualization of the notebook, please follow: https://nbviewer.jupyter.org/github/sjuanandres0/crypto/blob/main/Main.ipynb (It contains plotly graphs which are not interactive when rendered in GitHub).
 
 ## Disclaimer
 
