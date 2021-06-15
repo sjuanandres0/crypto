@@ -62,7 +62,7 @@ By looking at the Loss and Accuracy plots, we would like to see the true and the
 Trying with different parameters and RNN architecture in the given time was not possible to improve the model performance much more. This is attributable to the high volatility of BTC Price, being this highly dependent on external factors rather than its own price and volume. For example, Elon Musk's tweets, countries releasing approval/restrictions, companies adopting BTC (VISA, PayPal, Tesla, etc).
 
 ## Article on Medium
-Coming soon...
+[Link](https://sjuanandres0.medium.com/short-term-bitcoin-price-prediction-with-deep-learning-ab4386e84b5)
 
 ## Built with
 * [Python](https://www.python.org/)
