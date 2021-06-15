@@ -57,9 +57,9 @@ Else, there is already data up to 10th of June of 2021.
 ### Results
 The results do not look very promising. 
 
-By looking at the Loss and Accuracy plots, we would like to see the true and the validation lines to converge. However, they are not precisely converging as much as we would like. 
+By looking at the Loss and Accuracy plots, we would like to see the true and the validation lines to converge. However, they are not precisely converging as much as we would like, but we would expect that due to techniques to prevent overfitting. 
 
-Trying with different parameters and RNN architecture in the given time was not possible to improve the model performance much more. This is attribuitable to the high volatility of BTC Price, being this highly dependant on external factors and rather than its own price and volume. For example, Elon Musk's tweets, countries releasing approval/restrictions, companies adopting BTC (VISA, PayPal, Tesla, etc).
+Trying with different parameters and RNN architecture in the given time was not possible to improve the model performance much more. This is attributable to the high volatility of BTC Price, being this highly dependent on external factors rather than its own price and volume. For example, Elon Musk's tweets, countries releasing approval/restrictions, companies adopting BTC (VISA, PayPal, Tesla, etc).
 
 ## Article on Medium
 Coming soon...
@@ -86,7 +86,7 @@ I will outline here the main ones:
 Due to time contraints, I was not able to complete the project as I'd like, but here I will outline few ideas that can be further developed:
 - Include more features that influence BTC price. E.g.: some other stock exchange price, Twitter data, Whale data, altcoins data, active BTC addresses, etc.
 - Include other models to compare the results, such as, ARIMA, SARIMA, Facebook Prophet, among others. We could also try GRU cells in stead of LSTM for the RNN.
-- User more datapoints through reducing the time intervals. For this notebook, I used daily prices, but we could try with hourly prices for example.
+- Increase the number of datapoints by reducing the time intervals. For this notebook, I used daily prices, but we could try with hourly prices for example.
 - A trained model could be saved and through an API we could check the BTC price daily (and same for other features if we decide to have more) and make the BTC Price prediction for the next day. This could be automated with GitHub Actions. Since the model training may take some time (and may exceed the 2000 minutes monthly), we could train the model weekly (or in a different frecuency) in our local machines.
 - Furthermore, Telegram messages could also be triggered.
 - Refactor the code.
