@@ -54,6 +54,7 @@ https://docs.whale-alert.io/
 - Advanced: https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/
 - Interesting: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 - https://ruder.io/optimizing-gradient-descent/index.html#gradientdescentoptimizationalgorithms
+- Metrics: https://machinelearningmastery.com/regression-metrics-for-machine-learning/
 
 #### Books:
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron
